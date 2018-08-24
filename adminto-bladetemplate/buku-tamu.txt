@@ -940,5 +940,5 @@ Entry: 132
 CodeSaya:ulebule14
 Github: abangbule
 Nama: Gian Gianna Pallan Pallas
-Website: http://noesantara.byethost10.com
-Pesan: Terimakasih ya
+Website: www.codekeras.com
+Pesan: Test
